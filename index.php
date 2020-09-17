@@ -31,6 +31,7 @@
 <!-- Her skal sidens indhold ligge -->
 
     <img id="img_ball" src="img/ball.png" alt="">
+    <img id="img_brick" src="img/brick.png" alt="">
 
     <canvas id="gameScreen" width="800px" height="600px"></canvas>
 
